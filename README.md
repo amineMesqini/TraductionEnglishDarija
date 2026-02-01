@@ -1,6 +1,6 @@
 # Traduction English ↔ Darija
 
-## 🎥 Vidéo de démonstration
+
 ## 🎥 Vidéo de démonstration
 
 Cette vidéo montre :
